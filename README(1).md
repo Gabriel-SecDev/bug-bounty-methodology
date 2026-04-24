@@ -1,4 +1,4 @@
-# 🛡️ Bug Bounty Methodology — Gabriel Nunes
+# 🛡️ Bug Bounty Methodology — GabrielSecDev
 
 > **PT-BR** | [English below](#english-version)
 
@@ -30,7 +30,6 @@ Este repositório documenta minha metodologia pessoal de pesquisa em segurança 
 ### 👤 Sobre mim
 
 Pesquisador de segurança ofensiva autodidata. Ativo em bug bounty desde 2024.
-- 🔗 HackerOne: [gbzero777](https://hackerone.com/gbzero777)
 - 🔗 GitHub: [Gabriel-SecDev](https://github.com/Gabriel-SecDev)
 - 🔗 LinkedIn: [gabriel-de-andrade-nunes](https://linkedin.com/in/gabriel-de-andrade-nunes-710b033b8)
 
@@ -62,7 +61,7 @@ This repository documents my personal methodology for offensive security researc
 ### 👤 About me
 
 Self-taught offensive security researcher. Active in bug bounty since 2024.
-- 🔗 HackerOne: [gbzero777](https://hackerone.com/gbzero777)
+
 - 🔗 GitHub: [Gabriel-SecDev](https://github.com/Gabriel-SecDev)
 - 🔗 LinkedIn: [gabriel-de-andrade-nunes](https://linkedin.com/in/gabriel-de-andrade-nunes-710b033b8)
 
